@@ -39,10 +39,10 @@ const profile = {
 
 <div align="center">
   <h4>🔥 Primary Weapons</h4>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,javascript" /><br>
+  <img src="https://skillicons.dev/icons?i=rust,go,php,laravel,nodejs,javascript" /><br>
   
   <h4>⚡ Tactical Systems</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" /><br>
   
   <h4>🛠️ Support Equipment</h4>
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,nginx" />
